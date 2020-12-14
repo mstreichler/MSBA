@@ -8,13 +8,13 @@ This project was for my fall semester class titled Asset Management. The course 
 ### APM Project
 This project was for my fall semester class titled Advanced Predictive Modeling. The course was structured to teach students the advanced predictive and classification models and regressions. The instructions for this assignment was to investigate any dataset and try to solve a problem of our choice. For this assignment, we analyzed customer browsing patterns on Expedia to predict which hotel cluster they will book. The assignment was based on a past Kaggle Competition (https://www.kaggle.com/c/expedia-hotel-recommendations). We then had to do a blog write up of the entire project (https://petedavis22.medium.com/seo-search-expedia-optimization-779d728b1374).
 
-### Asset_Management_HW2
+#### Asset_Management_HW2
 This project was for my fall semester class titled Asset Management. The course was structured to teach students asset management in a quantitative manner. The instructions for this assignment was to analyze small cap value funds based on their returns in relation to fund size.
 
-### Final Code
+##### Final Code
 This project was for my fall semester class titled Introduction to Data Management. The course was structured to teach students the basics of SQL. For this project we had to select a real world company, create three transaction management applications along with a data warehouse, and select a subset of the data to analyze any market trends.
 
-### HW1
+###### HW1
 This project was for my fall semester class titled Empirical Finance. The course was structured to teach students to run regressions on CAPM and multi-factor models. The instructions for this assignment was to explore whether past sales growth explains future abnormal stock returns.
 
 ### HW1_Asset_Management
