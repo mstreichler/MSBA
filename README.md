@@ -2,7 +2,8 @@
 The projects in this repository include the assignments completed during my one year Master of Science in Business Analytics (MSBA) program at The University of Texas at Austin.
 
 Below is a list of the documents in this GitHub repository and a description of what each assignment is.
-AM Project
+
+#### AM Project
 This project was for my fall semester class titled Asset Management. The course was structured to teach students asset management in a quantitative manner. The instructions for this assignment was to create an investment strategy and backtest data. For this project, we constructed a statistical arbitrage.
 
 #### APM Project
