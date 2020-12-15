@@ -35,7 +35,6 @@ library(ggrepel)
 #Run everything above this line, one time. For multiple iterations of this code, run everything below this line.
 
 rm(list=ls())
-setwd("C:/Users/rehan/OneDrive/School work/UT Austin/Summer 2020/STA S380/Part 1/Project/Project Files")
 #We are provided with a validation set approach, where a set% of the data is training and test.
 #We will remove Salesprice from training df to allow for KFold cross validation
 train = read.csv("train.csv", stringsAsFactors = FALSE)
