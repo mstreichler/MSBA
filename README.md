@@ -59,7 +59,7 @@ Below is a list of the documents in this GitHub repository and a description of 
 * About: Find an interesting prediction/classification problem and develope the best possible predictive algorithm for the variable of interest -- constructed a model to forecast actual house sale prices in Ames, IA
 * Language(s): R
 
-#### STA Final
+#### Predictive Modeling Exercises
 * Semester: Summer 2020
 * Course: Predictive Modeling
 * About: Consisted of six different exercises
