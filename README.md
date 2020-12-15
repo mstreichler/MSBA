@@ -3,13 +3,13 @@ The projects in this repository include the assignments completed during my one 
 
 Below is a list of the documents in this GitHub repository and a description of what each assignment is.
 
-#### AM Project
+#### Statistical Arbitrage
 * Semester: Fall 2020
 * Course: Asset Management
 * About: Create an investment strategy and backtest the data -- statistical arbitrage
 * Language(s): Python
 
-#### APM Project
+#### Expedia Hotel Recommendation System
 * Semester: Fall 2020
 * Course: Advanced Predictive Modeling
 * About: Investigate any dataset and try to solve a prediction/classification problem -- analyzed customer browsing patterns on Expedia to predict which hotel cluster they will book
@@ -17,7 +17,7 @@ Below is a list of the documents in this GitHub repository and a description of 
     * Blog write up: https://petedavis22.medium.com/seo-search-expedia-optimization-779d728b1374
 * Language(s): Python
 
-#### Asset_Management_HW2
+#### Small Cap Value Fund Analysis
 * Semester: Fall 2020
 * Course: Asset Management
 * About: Analyze small cap value funds based on their returns in relation to fund size
