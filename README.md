@@ -29,7 +29,7 @@ Below is a list of the documents in this GitHub repository and a description of 
 * About: Select a real world company, create three transaction management applications along with a data warehouse, and select a subset of the data to analyze any market trends
 * Language(s): SQL
 
-#### HW1
+#### Sales Growth
 * Semester: Fall 2020
 * Course: Empirical Finance
 * About: Explore whether past sales growht explains future abnormal stock returns
