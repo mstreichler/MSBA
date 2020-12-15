@@ -41,7 +41,7 @@ Below is a list of the documents in this GitHub repository and a description of 
 * About: Replicate the S&P 500 and Dow Jones Industrial Average Indices and compare the replications with the actual index and a passive ETF and Mutual Fund
 * Language(s): Python
 
-#### HW1_Text Analysis
+#### Brand and Attribute Lift
 * Semester: Fall 2020
 * Course: Text Analysis
 * About: Analyze car brands and associated attributes and characeristics through Lift Analysis
