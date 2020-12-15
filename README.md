@@ -3,42 +3,10 @@ The projects in this repository include the assignments completed during my one 
 
 Below is a list of the documents in this GitHub repository and a description of what each assignment is.
 
-#### Statistical Arbitrage
+#### Beer Recommendation System
 * Semester: Fall 2020
-* Course: Asset Management
-* About: Create an investment strategy and backtest the data -- statistical arbitrage
-* Language(s): Python
-
-#### Expedia Hotel Recommendation System
-* Semester: Fall 2020
-* Course: Advanced Predictive Modeling
-* About: Investigate any dataset and try to solve a prediction/classification problem -- analyzed customer browsing patterns on Expedia to predict which hotel cluster they will book
-    * Based on past Kaggle Competition: https://www.kaggle.com/c/expedia-hotel-recommendations
-    * Blog write up: https://petedavis22.medium.com/seo-search-expedia-optimization-779d728b1374
-* Language(s): Python
-
-#### Small Cap Value Fund Analysis
-* Semester: Fall 2020
-* Course: Asset Management
-* About: Analyze small cap value funds based on their returns in relation to fund size
-* Language(s): Python
-
-#### Integrated Data Management Architecture
-* Semester: Fall 2020
-* Course: Introduction to Data Management
-* About: Select a real world company, create three transaction management applications along with a data warehouse, and select a subset of the data to analyze any market trends
-* Language(s): SQL
-
-#### Sales Growth
-* Semester: Fall 2020
-* Course: Empirical Finance
-* About: Explore whether past sales growht explains future abnormal stock returns
-* Language(s): Python
-
-#### Index Replication
-* Semester: Fall 2020
-* Course: Asset Management
-* About: Replicate the S&P 500 and Dow Jones Industrial Average Indices and compare the replications with the actual index and a passive ETF and Mutual Fund
+* Course: Text Analysis
+* About: Constructed a beer recommendation system based on user defined attributes, performed Cosines Similarity and feature-level Analyses to capture similar beers influenced by user reviews' sentiment and rankings
 * Language(s): Python
 
 #### Brand and Attribute Lift
@@ -53,11 +21,37 @@ Below is a list of the documents in this GitHub repository and a description of 
 * About: Investigate any dataset and try to solve a problem of your choice -- accurately predict whether or not a patient in the Pima indian heritage has diabetes
 * Language(s): Python
 
+#### Expedia Hotel Recommendation System
+* Semester: Fall 2020
+* Course: Advanced Predictive Modeling
+* About: Investigate any dataset and try to solve a prediction/classification problem -- analyzed customer browsing patterns on Expedia to predict which hotel cluster they will book
+    * Based on past Kaggle Competition: https://www.kaggle.com/c/expedia-hotel-recommendations
+    * Blog write up: https://petedavis22.medium.com/seo-search-expedia-optimization-779d728b1374
+* Language(s): Python
+
 #### Forecasting Housing Sales Prices
 * Semester: Summer 2020
 * Course: Predictive Modeling
 * About: Find an interesting prediction/classification problem and develope the best possible predictive algorithm for the variable of interest -- constructed a model to forecast actual house sale prices in Ames, IA
 * Language(s): R
+
+#### Image Analytics
+* Semester: Fall 2020
+* Course: Text Analysis
+* About: Extracted images and captions from Zara's Instagram page to analyze user engagement
+* Language(s): Python
+
+#### Index Replication
+* Semester: Fall 2020
+* Course: Asset Management
+* About: Replicate the S&P 500 and Dow Jones Industrial Average Indices and compare the replications with the actual index and a passive ETF and Mutual Fund
+* Language(s): Python
+
+#### Integrated Data Management Architecture
+* Semester: Fall 2020
+* Course: Introduction to Data Management
+* About: Select a real world company, create three transaction management applications along with a data warehouse, and select a subset of the data to analyze any market trends
+* Language(s): SQL
 
 #### Predictive Modeling Exercises
 * Semester: Summer 2020
@@ -71,20 +65,26 @@ Below is a list of the documents in this GitHub repository and a description of 
     * 6. Association Rule Mining: Find interesting association rules for shopping baskets
 * Language(s): R
 
-#### Image Analytics
+#### Sales Growth
 * Semester: Fall 2020
-* Course: Text Analysis
-* About: Extracted images and captions from Zara's Instagram page to analyze user engagement
+* Course: Empirical Finance
+* About: Explore whether past sales growht explains future abnormal stock returns
+* Language(s): Python
+
+#### Small Cap Value Fund Analysis
+* Semester: Fall 2020
+* Course: Asset Management
+* About: Analyze small cap value funds based on their returns in relation to fund size
+* Language(s): Python
+
+#### Statistical Arbitrage
+* Semester: Fall 2020
+* Course: Asset Management
+* About: Create an investment strategy and backtest the data -- statistical arbitrage
 * Language(s): Python
 
 #### iPhone Lock In
 * Semester: Fall 2020
 * Course: Text Analysis
 * About: Scraped Twitter data to determine if iPhone or Android users are switching phones
-* Language(s): Python
-
-#### Beer Recommendation System
-* Semester: Fall 2020
-* Course: Text Analysis
-* About: Constructed a beer recommendation system based on user defined attributes, performed Cosines Similarity and feature-level Analyses to capture similar beers influenced by user reviews' sentiment and rankings
 * Language(s): Python
