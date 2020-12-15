@@ -4,10 +4,18 @@ The projects in this repository include the assignments completed during my one 
 Below is a list of the documents in this GitHub repository and a description of what each assignment is.
 
 #### AM Project
+Semester: Fall 2020
+Course: Asset Management
+About: Create an investment strategy and backtest the data (statistical arbitrage)
+
 This project was for my fall semester class titled Asset Management. The course was structured to teach students asset management in a quantitative manner. The instructions for this assignment was to create an investment strategy and backtest data. For this project, we constructed a statistical arbitrage.
 
 #### APM Project
-This project was for my fall semester class titled Advanced Predictive Modeling. The course was structured to teach students the advanced predictive and classification models and regressions. The instructions for this assignment was to investigate any dataset and try to solve a problem of our choice. For this assignment, we analyzed customer browsing patterns on Expedia to predict which hotel cluster they will book. The assignment was based on a past Kaggle Competition (https://www.kaggle.com/c/expedia-hotel-recommendations). We then had to do a blog write up of the entire project (https://petedavis22.medium.com/seo-search-expedia-optimization-779d728b1374).
+* Semester: Fall 2020
+* Course: Advanced Predictive Modeling
+* About: Investigate any dataset and try to solve a prediction/classification problem - analyzed customer browsing patterns on Expedia to predict which hotel cluster
+
+This project was for my fall semester class titled Advanced Predictive Modeling. The course was structured to teach students advanced predictive and classification models and regressions. The instructions for this assignment was to investigate any dataset and try to solve a problem of our choice. For this assignment, we analyzed customer browsing patterns on Expedia to predict which hotel cluster they will book. The assignment was based on a past Kaggle Competition (https://www.kaggle.com/c/expedia-hotel-recommendations). We then had to complete a blog write up of the project (https://petedavis22.medium.com/seo-search-expedia-optimization-779d728b1374).
 
 #### Asset_Management_HW2
 This project was for my fall semester class titled Asset Management. The course was structured to teach students asset management in a quantitative manner. The instructions for this assignment was to analyze small cap value funds based on their returns in relation to fund size.
