@@ -83,7 +83,7 @@ Below is a list of the documents in this GitHub repository and a description of 
 * About: Scraped Twitter data to determine if iPhone or Android users are switching phones
 * Language(s): Python
 
-#### Text_Analytics_HW2
+#### Beer Recommendation System
 * Semester: Fall 2020
 * Course: Text Analysis
 * About: Constructed a beer recommendation system based on user defined attributes, performed Cosines Similarity and feature-level Analyses to capture similar beers influenced by user reviews' sentiment and rankings
