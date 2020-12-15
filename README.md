@@ -23,7 +23,7 @@ Below is a list of the documents in this GitHub repository and a description of 
 * About: Analyze small cap value funds based on their returns in relation to fund size
 * Language(s): Python
 
-#### Final Code
+#### Integrated Data Management Architecture
 * Semester: Fall 2020
 * Course: Introduction to Data Management
 * About: Select a real world company, create three transaction management applications along with a data warehouse, and select a subset of the data to analyze any market trends
