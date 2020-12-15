@@ -58,11 +58,11 @@ Below is a list of the documents in this GitHub repository and a description of 
 * Course: Predictive Modeling
 * About: Consisted of six different exercises
     1. Visual Story Telling Part 1 - Green Buildings: Understand the financial returns on environmentally friendly buildings through the use of visualizations
-    * 2. Visual Story Telling Part 2 - Flights at ABIA: Create a set of related figures that tells an interesting story about flights into and out of Austin Bergstrom International Airport
-    * 3. Portfolio Modeling: Create three portfolios and generate returns and other insights from the data
-    * 4. Market Segmentation: Analyze data to prepare a report identifying any interesting market segments
-    * 5. Author Attribution: Predict the author of an article on the basis of an article's textual content
-    * 6. Association Rule Mining: Find interesting association rules for shopping baskets
+    2. Visual Story Telling Part 2 - Flights at ABIA: Create a set of related figures that tells an interesting story about flights into and out of Austin Bergstrom International Airport
+    3. Portfolio Modeling: Create three portfolios and generate returns and other insights from the data
+    4. Market Segmentation: Analyze data to prepare a report identifying any interesting market segments
+    5. Author Attribution: Predict the author of an article on the basis of an article's textual content
+    6. Association Rule Mining: Find interesting association rules for shopping baskets
 * Language(s): R
 
 #### Sales Growth
