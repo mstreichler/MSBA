@@ -35,7 +35,7 @@ Below is a list of the documents in this GitHub repository and a description of 
 * About: Explore whether past sales growht explains future abnormal stock returns
 * Language(s): Python
 
-#### HW1_Asset_Management
+#### Index Replication
 * Semester: Fall 2020
 * Course: Asset Management
 * About: Replicate the S&P 500 and Dow Jones Industrial Average Indices and compare the replications with the actual index and a passive ETF and Mutual Fund
