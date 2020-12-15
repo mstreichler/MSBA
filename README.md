@@ -47,7 +47,7 @@ Below is a list of the documents in this GitHub repository and a description of 
 * About: Analyze car brands and associated attributes and characeristics through Lift Analysis
 * Language(s): Python
 
-#### MIS 381N – Project
+#### Diabetes Predictive Algorithm
 * Semester: Summer 2020
 * Course: Data Analytics Programming
 * About: Investigate any dataset and try to solve a problem of your choice -- accurately predict whether or not a patient in the Pima indian heritage has diabetes
