@@ -57,7 +57,7 @@ Below is a list of the documents in this GitHub repository and a description of 
 * Semester: Summer 2020
 * Course: Predictive Modeling
 * About: Consisted of six different exercises
-    * 1. Visual Story Telling Part 1 - Green Buildings: Understand the financial returns on environmentally friendly buildings through the use of visualizations
+    1. Visual Story Telling Part 1 - Green Buildings: Understand the financial returns on environmentally friendly buildings through the use of visualizations
     * 2. Visual Story Telling Part 2 - Flights at ABIA: Create a set of related figures that tells an interesting story about flights into and out of Austin Bergstrom International Airport
     * 3. Portfolio Modeling: Create three portfolios and generate returns and other insights from the data
     * 4. Market Segmentation: Analyze data to prepare a report identifying any interesting market segments
@@ -68,7 +68,7 @@ Below is a list of the documents in this GitHub repository and a description of 
 #### Sales Growth
 * Semester: Fall 2020
 * Course: Empirical Finance
-* About: Explore whether past sales growht explains future abnormal stock returns
+* About: Explore whether past sales growth explains future abnormal stock returns
 * Language(s): Python
 
 #### Small Cap Value Fund Analysis
