@@ -77,7 +77,7 @@ Below is a list of the documents in this GitHub repository and a description of 
 * About: Extracted images and captions from Zara's Instagram page to analyze user engagement
 * Language(s): Python
 
-#### Text_Analysis_Project
+#### iPhone Lock In
 * Semester: Fall 2020
 * Course: Text Analysis
 * About: Scraped Twitter data to determine if iPhone or Android users are switching phones
