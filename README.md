@@ -53,7 +53,7 @@ Below is a list of the documents in this GitHub repository and a description of 
 * About: Investigate any dataset and try to solve a problem of your choice -- accurately predict whether or not a patient in the Pima indian heritage has diabetes
 * Language(s): Python
 
-#### Project
+#### Forecasting Housing Sales Prices
 * Semester: Summer 2020
 * Course: Predictive Modeling
 * About: Find an interesting prediction/classification problem and develope the best possible predictive algorithm for the variable of interest -- constructed a model to forecast actual house sale prices in Ames, IA
