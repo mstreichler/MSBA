@@ -71,7 +71,7 @@ Below is a list of the documents in this GitHub repository and a description of 
     * 6. Association Rule Mining: Find interesting association rules for shopping baskets
 * Language(s): R
 
-#### Text Analysis HW3
+#### Image Analytics
 * Semester: Fall 2020
 * Course: Text Analysis
 * About: Extracted images and captions from Zara's Instagram page to analyze user engagement
