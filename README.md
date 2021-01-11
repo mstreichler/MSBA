@@ -12,13 +12,13 @@ Below is a list of the documents in this GitHub repository and a description of 
 #### Brand and Attribute Lift
 * Semester: Fall 2020
 * Course: Text Analysis
-* About: Analyze car brands and associated attributes and characeristics through Lift Analysis
+* About: Analyzed car brands and associated attributes and characeristics through Lift Analysis
 * Language: Python
 
 #### Expedia Hotel Recommendation System
 * Semester: Fall 2020
 * Course: Advanced Predictive Modeling
-* About: Investigate any dataset and try to solve a prediction/classification problem -- analyzed customer browsing patterns on Expedia to predict which hotel cluster they will book
+* About: Analyzed customer browsing patterns on Expedia to predict which hotel cluster they will book
     * Based on past Kaggle Competition: https://www.kaggle.com/c/expedia-hotel-recommendations
     * Blog write up: https://petedavis22.medium.com/seo-search-expedia-optimization-779d728b1374
 * Language: Python
@@ -26,7 +26,7 @@ Below is a list of the documents in this GitHub repository and a description of 
 #### Forecasting Housing Sales Prices
 * Semester: Summer 2020
 * Course: Predictive Modeling
-* About: Find an interesting prediction/classification problem and develope the best possible predictive algorithm for the variable of interest -- constructed a model to forecast actual house sale prices in Ames, IA
+* About: Constructed a predictive model to forecast actual house sale prices in Ames, IA
 * Language: R
 
 #### Image Analytics
@@ -38,43 +38,43 @@ Below is a list of the documents in this GitHub repository and a description of 
 #### Index Replication
 * Semester: Fall 2020
 * Course: Asset Management
-* About: Replicate the S&P 500 and Dow Jones Industrial Average Indices and compare the replications with the actual index and a passive ETF and Mutual Fund
+* About: Replicated the S&P 500 and Dow Jones Industrial Average Indices and compared the replications with the actual index and a passive ETF and Mutual Fund
 * Language: Python
 
 #### Integrated Data Management Architecture
 * Semester: Fall 2020
 * Course: Introduction to Data Management
-* About: Select a real world company, create three transaction management applications along with a data warehouse, and select a subset of the data to analyze any market trends
+* About: Create three transaction management applications along with a data warehouse for Costco Wholesale, and selected a subset of the data to analyze any market trends
 * Language: SQL
 
 #### Predictive Modeling Exercises
 * Semester: Summer 2020
 * Course: Predictive Modeling
 * About: Consisted of six different exercises
-    1. Visual Story Telling Part 1 - Green Buildings: Understand the financial returns on environmentally friendly buildings through the use of visualizations
-    2. Visual Story Telling Part 2 - Flights at ABIA: Create a set of related figures that tells an interesting story about flights into and out of Austin Bergstrom International Airport
-    3. Portfolio Modeling: Create three portfolios and generate returns and other insights from the data
-    4. Market Segmentation: Analyze data to prepare a report identifying any interesting market segments
-    5. Author Attribution: Predict the author of an article on the basis of an article's textual content
-    6. Association Rule Mining: Find interesting association rules for shopping baskets
+    1. Visual Story Telling Part 1 - Green Buildings: Understood the financial returns on environmentally friendly buildings through the use of visualizations
+    2. Visual Story Telling Part 2 - Flights at ABIA: Created a set of related figures that told an interesting story about flights into and out of Austin Bergstrom International Airport
+    3. Portfolio Modeling: Created three portfolios and generated returns and other insights from the data
+    4. Market Segmentation: Analyzed data to prepare a report identifying any interesting market segments
+    5. Author Attribution: Predicted the author of an article on the basis of an article's textual content
+    6. Association Rule Mining: Found interesting association rules for shopping baskets
 * Language: R
 
 #### Sales Growth
 * Semester: Fall 2020
 * Course: Empirical Finance
-* About: Explore whether past sales growth explains future abnormal stock returns
+* About: Explored whether past sales growth explains future abnormal stock returns
 * Language: Python
 
 #### Small Cap Value Fund Analysis
 * Semester: Fall 2020
 * Course: Asset Management
-* About: Analyze small cap value funds based on their returns in relation to fund size
+* About: Analyzed small cap value funds based on their returns in relation to fund size
 * Language: Python
 
 #### Statistical Arbitrage
 * Semester: Fall 2020
 * Course: Asset Management
-* About: Create an investment strategy and backtest the data -- statistical arbitrage
+* About: Created a Statistical Arbitrage investment strategy and backtested the data
 * Language: Python
 
 #### iPhone Lock In
