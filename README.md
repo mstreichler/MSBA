@@ -6,7 +6,7 @@ Below is a list of the documents in this GitHub repository and a description of 
 #### Beer Recommendation System
 * Semester: Fall 2020
 * Course: Text Analysis
-* About: Constructed a beer recommendation system based on user defined attributes, performed Cosines Similarity and feature-level Analyses to capture similar beers influenced by user reviews' sentiment and rankings
+* About: Constructed a beer recommendation system based on user defined attributes, performed Cosine Similarity and feature-level Analyses to capture similar beers influenced by user reviews' sentiment and rankings
 * Language: Python
 
 #### Brand and Attribute Lift
