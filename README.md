@@ -44,7 +44,7 @@ Below is a list of the documents in this GitHub repository and a description of 
 #### Integrated Data Management Architecture
 * Semester: Fall 2020
 * Course: Introduction to Data Management
-* About: Create three transaction management applications along with a data warehouse for Costco Wholesale, and selected a subset of the data to analyze any market trends
+* About: Created three transaction management applications along with a data warehouse for Costco Wholesale, and selected a subset of the data to analyze any market trends
 * Language: SQL
 
 #### Predictive Modeling Exercises
@@ -62,7 +62,7 @@ Below is a list of the documents in this GitHub repository and a description of 
 #### Sales Growth
 * Semester: Fall 2020
 * Course: Empirical Finance
-* About: Explored whether past sales growth explains future abnormal stock returns
+* About: Explored whether past sales growth explains future, abnormal stock returns
 * Language: Python
 
 #### Small Cap Value Fund Analysis
