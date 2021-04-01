@@ -23,18 +23,18 @@ Below is a list of the documents in this GitHub repository and a description of 
     * Blog write up: https://petedavis22.medium.com/seo-search-expedia-optimization-779d728b1374
 * Language: Python
 
+#### Forecasting Housing Sales Prices
+* Semester: Summer 2020
+* Course: Predictive Modeling
+* About: Constructed a predictive model to forecast actual house sale prices in Ames, IA
+* Language: R
+
 #### Generating Haikus From Images
 * Semester: Spring 2021
 * Course: Cognitive Computing
 * About: Generated a model to create a haiku poem based on an input image
    * Blog write up: https://medium.com/geekculture/generating-haikus-from-images-c0d35c2470ce
 * Language: Python
-
-#### Forecasting Housing Sales Prices
-* Semester: Summer 2020
-* Course: Predictive Modeling
-* About: Constructed a predictive model to forecast actual house sale prices in Ames, IA
-* Language: R
 
 #### Image Analytics
 * Semester: Fall 2020
