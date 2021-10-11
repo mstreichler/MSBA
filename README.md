@@ -54,6 +54,12 @@ Below is a list of the documents in this GitHub repository and a description of 
 * About: Created three transaction management applications along with a data warehouse for Costco Wholesale, and selected a subset of the data to analyze any market trends
 * Language: SQL
 
+#### Predicting Firm Bankruptcy
+* Semester: Spring 2021
+* Course: Financial Modeling & Testing
+* About: Explored how distressed stocks are priced and the effects of financial distress on portfolio returns
+* Language: Python
+
 #### Predictive Modeling Exercises
 * Semester: Summer 2020
 * Course: Predictive Modeling
@@ -82,6 +88,12 @@ Below is a list of the documents in this GitHub repository and a description of 
 * Semester: Fall 2020
 * Course: Asset Management
 * About: Created a Statistical Arbitrage investment strategy and backtested the data
+* Language: Python
+
+#### Value Investment Strategy
+* Semester: Spring 2021
+* Course: Financial Modeling & Testing
+* About: Improved upon Joel Greenblatt's value investment magic formula utilizing machine learning tools and additional accounting metrics?
 * Language: Python
 
 #### iPhone Lock In
