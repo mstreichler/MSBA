@@ -93,7 +93,7 @@ Below is a list of the documents in this GitHub repository and a description of 
 #### Value Investment Strategy
 * Semester: Spring 2021
 * Course: Financial Modeling & Testing
-* About: Improved upon Joel Greenblatt's value investment magic formula utilizing machine learning tools and additional accounting metrics?
+* About: Improved upon Joel Greenblatt's value investment magic formula utilizing machine learning tools and additional accounting metrics
 * Language: Python
 
 #### iPhone Lock In
